@@ -1,0 +1,44 @@
+C:\Documents and Settings\Женя\Мои документы\My C++Projects\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe
+C:\Documents and Settings\Женя\Мои документы\My C++Projects\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.pdb
+C:\Documents and Settings\Женя\Мои документы\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Женя\Мои документы\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form1.resources
+C:\Documents and Settings\Женя\Мои документы\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Properties.Resources.resources
+C:\Documents and Settings\Женя\Мои документы\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csproj.GenerateResource.Cache
+C:\Documents and Settings\Женя\Мои документы\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.exe
+C:\Documents and Settings\Женя\Мои документы\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.pdb
+C:\Documents and Settings\Женя\Мои документы\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form2.resources
+H:\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.exe
+H:\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.pdb
+H:\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\ResolveAssemblyReference.cache
+H:\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form1.resources
+H:\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Properties.Resources.resources
+H:\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csproj.GenerateResource.Cache
+F:\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.exe
+F:\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\ResolveAssemblyReference.cache
+F:\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form1.resources
+F:\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form2.resources
+F:\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Properties.Resources.resources
+F:\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csproj.GenerateResource.Cache
+F:\My C++Projects\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe
+F:\My C++Projects\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.pdb
+F:\My C++Projects\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.pdb
+H:\My C++Projects\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe
+H:\My C++Projects\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.pdb
+C:\Documents and Settings\Женя\Рабочий стол\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.exe
+C:\Documents and Settings\Женя\Рабочий стол\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.pdb
+C:\Documents and Settings\Женя\Рабочий стол\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe
+C:\Documents and Settings\Женя\Рабочий стол\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.pdb
+C:\Documents and Settings\Женя\Рабочий стол\КУРСАЧ\КУРСАЧ\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Женя\Рабочий стол\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form1.resources
+C:\Documents and Settings\Женя\Рабочий стол\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Properties.Resources.resources
+C:\Documents and Settings\Женя\Рабочий стол\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csproj.GenerateResource.Cache
+C:\Documents and Settings\Женя\Рабочий стол\Новая папка\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.exe
+C:\Documents and Settings\Женя\Рабочий стол\Новая папка\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.pdb
+C:\Documents and Settings\Женя\Рабочий стол\Новая папка\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe
+C:\Documents and Settings\Женя\Рабочий стол\Новая папка\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.pdb
+C:\Documents and Settings\Женя\Рабочий стол\Новая папка\КУРСАЧ\КУРСАЧ\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Женя\Рабочий стол\Новая папка\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form1.resources
+C:\Documents and Settings\Женя\Рабочий стол\Новая папка\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Properties.Resources.resources
+C:\Documents and Settings\Женя\Рабочий стол\Новая папка\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csproj.GenerateResource.Cache
+I:\My C++Projects\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.exe
+I:\My C++Projects\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.pdb

@@ -1,0 +1,8 @@
+obj\Debug\КУРСАЧ.exe
+obj\Debug\КУРСАЧ.pdb
+bin\Debug\КУРСАЧ.exe
+bin\Debug\КУРСАЧ.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\КУРСАЧ.Form1.resources
+obj\Debug\КУРСАЧ.Properties.Resources.resources
+obj\Debug\КУРСАЧ.csproj.GenerateResource.Cache
